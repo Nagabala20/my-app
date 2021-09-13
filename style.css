@@ -1,0 +1,70 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background-color: aqua;
+}
+.header_div
+{
+    background-color: yellow;
+    color: blue;
+    font-size: 35px;
+}
+.header_div img
+{
+    width: 100px;
+}
+.main_div
+{
+    background-color: cornsilk;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid peachpuff;
+}
+.main_div label
+{
+    background-color: red;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px greenyellow;
+}
+#camera, #result
+{
+    bottom: 2px solid gold;
+    width: 310px;
+    height: 300px;
+    box-shadow: 5px 5px 18px silver;
+}
+.main_div button
+{
+    width: 310px;
+    font-size: 20px;
+    box-shadow: 5px 5px 18px burlywood;
+    border: 2px solid darkorange;
+}
+.footer_div
+{
+    margin-bottom: 50px;
+}
+.footer_div h4
+{
+    background-color: brown;
+    border-radius: 10px;
+    padding: 5px;
+    box-shadow: 5px 5px 18px rosybrown;
+}
+    .footer_div img
+    {
+        width: 70px;
+    }
+    .copy_right_footer{
+        position: fixed;
+        color: rgb(248, 0, 0);
+        bottom: 0;
+        width: 100%;
+        background-color: springgreen;
+        line-height: 3;
+        text-align: center;
+        font-size: 30px;
+        font-weight: bold;
+    }
+    
